@@ -23,6 +23,11 @@ The goal of this task is to perform Exploratory Data Analysis on the Titanic dat
 5. Identified **skewness** and **multicollinearity**.
 6. Created **interactive plot** using Plotly.
 ## 📁 Files Included
-- `titanic_eda.py` – Python script containing the full EDA process.
+- `EXPLORATORY_DATA_ANALYSIS_(EDA).ipynb` – Python script containing the full EDA process.
 - `README.md` – This file.
+## 🚀 How to Run
+1. Clone the repository or download the `.ipynb` file.
+2. Install the required Python packages:
+   ```bash
+   pip install pandas numpy seaborn matplotlib plotly
 
